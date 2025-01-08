@@ -1,0 +1,5 @@
+@import 'mymixins';
+
+:host {
+  @include red-bg;
+}
